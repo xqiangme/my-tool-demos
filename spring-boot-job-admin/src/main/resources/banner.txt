@@ -1,0 +1,21 @@
+  ${AnsiColor.BRIGHT_RED}
+--------------------------------------------------------------
+
+      _   ___   ____       _     ____   __  __  ___  _   _
+     | | / _ \ | __ )     / \   |  _ \ |  \/  ||_ _|| \ | |
+  _  | || | | ||  _ \    / _ \  | | | || |\/| | | | |  \| |
+ | |_| || |_| || |_) |  / ___ \ | |_| || |  | | | | | |\  |
+  \___/  \___/ |____/  /_/   \_\|____/ |_|  |_||___||_| \_|
+
+--------------------------------------------------------------
+${AnsiColor.GREEN}
+Application port: ${server.port}
+Application Env: DEFAULT
+Root Log Level Root: ${logging.level.root}
+Root Log Level Example: ${logging.level.com.example}
+Spring Boot Version: ${spring-boot.version}${spring-boot.formatted-version}
+
+程序员小强温馨提示:
+编码千万行，注释第一行。
+代码不规范，复盘两行泪。
+${AnsiColor.CYAN}
