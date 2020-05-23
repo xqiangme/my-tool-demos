@@ -28,9 +28,9 @@
     <dependencies>
 
         <dependency>
-            <groupId>com.xqiang.job.admin</groupId>
+            <groupId>com.github.xqiangme</groupId>
             <artifactId>xqiang-job-admin</artifactId>
-            <version>0.0.5</version>
+            <version>0.0.2-RELEASE</version>
         </dependency>
 
         <!-- spring-boot 相关 依赖 -->
